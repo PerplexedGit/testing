@@ -2,3 +2,4 @@
 128.199.46.251 mlb-ws-mf.media.mlb.com
 128.199.46.251 mf.svc.nhl.com
 128.199.46.251 nhl.freegamez.ga
+128.199.46.251 freegamez.ga
